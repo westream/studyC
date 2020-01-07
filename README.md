@@ -1,2 +1,3 @@
 # study C++
-AS a student for C++ 
+
+ [第四章 类](/studyC/class.md)
